@@ -1,0 +1,6 @@
+﻿# Archivos y carpetas de Visual Studio
+bin/
+obj/
+*.user
+*.suo
+*.sln.docstates
